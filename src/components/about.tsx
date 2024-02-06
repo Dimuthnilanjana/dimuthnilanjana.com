@@ -32,7 +32,7 @@ export default function About() {
 
         <br></br><br></br>
         In 2022, I embarked on my front-end development career,
-        gaining expertise in HTML, CSS, JavaScript, Next.js, Tailwind CSS,
+        gaining expertise in HTML, CSS, JavaScript, React, Next.js, Tailwind CSS,
         MongoDB, MySQL, and more. As a dedicated freelancer, I am passionate
         about delivering top-notch solutions to meet and exceed the
         expectations of my clients.
