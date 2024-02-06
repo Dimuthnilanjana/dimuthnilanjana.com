@@ -53,7 +53,7 @@ export const projectsData: ProjectInfo[] = [
     link: "https://github.com/Dimuthnilanjana/snakegame_js",
   },
   {
-    title: "Heart Desease Analyzer",
+    title: "Heart Disease Analyzer",
     description:
       "Predict and assess heart disease risk with machine learning. Early detection for better cardiac health. ",
     tags: ["Python", "Jupitor Note Book", "Pandas", "Colab"],
