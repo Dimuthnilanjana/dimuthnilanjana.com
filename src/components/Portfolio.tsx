@@ -16,7 +16,7 @@ export default function Portfolio() {
     
    
      <motion.div>
-    <div className="max-w-[900px] gap-2 grid grid-cols-12  grid-rows-2 px-8   pb-28">
+    <div className="max-w-[900px] gap-2 grid grid-cols-12  grid-rows-2 px-8   pb-28 ">
     <Card className="col-span-12 sm:col-span-4 h-[300px]">
       <CardHeader className="absolute z-10 top-1 flex-col !items-start">
        
@@ -91,6 +91,7 @@ export default function Portfolio() {
         isExternal
         href="https://be.net/dimuthnilanjana"
         showAnchorIcon
+        className="  text-white"
       >
         Behance
       </Link>

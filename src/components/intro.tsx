@@ -102,7 +102,7 @@ export default function Intro() {
         </Link>
        
         <Link
-          href="https://drive.google.com/file/d/14tdfGdpdh5i91Q6_bi2ARj2AGKOTHbIp/view?usp=sharing"
+          href="https://drive.google.com/file/d/10Si-a4XN6svKPGag0Ja5RgMPPtpu9fOy/view?usp=sharing"
           className="group bg-gray-900 text-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:bg-gray-950 active:scale-105 transition">
          
           Download CV

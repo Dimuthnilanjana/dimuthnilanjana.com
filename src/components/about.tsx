@@ -44,7 +44,7 @@ export default function About() {
       </p>
 
       <div className="flex items-center justify-center pt-6 ">
-        <Card className="max-w-[600px] bg-white border-black   dark:bg-gray-800  rounded-2xl  shadow-2xl hover:scale-[1.04]">
+        <Card className="max-w-[600px] bg-white border-black   dark:bg-gray-800  rounded-2xl  shadow-2xl hover:scale-[1.04]  transform transition-transform">
           <CardHeader className="flex gap-3">
             <Image
               alt="nextui logo"
