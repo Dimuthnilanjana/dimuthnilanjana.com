@@ -7,6 +7,7 @@ import Footer from "@/components/footer";
 import ThemeSwitch from "@/components/theme-controller";
 import LanguageSwitch from "@/components/language-controller";
 import Navbar from "@/components/navbar";
+import { SpeedInsights } from "@vercel/speed-insights/next"
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -34,6 +35,7 @@ export default function RootLayout({
           <LanguageSwitch />
           <ThemeSwitch />
         </Providers>
+        <SpeedInsights/>
       </body>
     </html>
   );
