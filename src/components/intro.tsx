@@ -42,7 +42,7 @@ export default function Intro() {
               alt="portrait"
               quality="95"
               priority={true}
-              className="rounded-full object-cover shadow-2xl  hover:scale-[1.1] "
+              className="rounded-full object-cover shadow-2xl  hover:scale-[1.1]  transform transition-transform"
             />
           </motion.div>
           <motion.span
