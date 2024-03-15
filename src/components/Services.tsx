@@ -50,7 +50,7 @@ export default function Services() {
 
 
                 <Card className="  bg-white   rounded-lg  dark:bg-gray-800 shadow-xl   
-                 hover:text-white  hover:bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 dark:hover:bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 transform transition-transform hover:scale-[1.02]">
+                 hover:text-white  hover:bg-gradient-to-r from-blue-500  to-pink-500 dark:hover:bg-gradient-to-r from-green-400  to-blue-500 transform transition-transform hover:scale-[1.02]">
                     <CardHeader className=" flex-auto">
                         <FaCode
                             size="35px" />
@@ -64,7 +64,7 @@ export default function Services() {
 
                 </Card>
 
-                <Card className="  bg-white   rounded-lg  dark:bg-gray-800 shadow-xl    hover:bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 dark:hover:bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 hover:text-white transform transition-transform hover:scale-[1.02]">
+                <Card className="  bg-white   rounded-lg  dark:bg-gray-800 shadow-xl    hover:bg-gradient-to-r from-blue-500  to-pink-500 dark:hover:bg-gradient-to-r from-green-400  to-blue-500 hover:text-white transform transition-transform hover:scale-[1.02]">
                     <CardHeader className=" flex-auto">
                         <CgFigma
                             size="35px" />
@@ -78,7 +78,7 @@ export default function Services() {
 
                 </Card>
 
-                <Card className="  bg-white   rounded-lg  dark:bg-gray-800 shadow-xl    hover:bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 dark:hover:bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 hover:text-white transform transition-transform hover:scale-[1.02]">
+                <Card className="  bg-white   rounded-lg  dark:bg-gray-800 shadow-xl    hover:bg-gradient-to-r from-blue-500  to-pink-500 dark:hover:bg-gradient-to-r from-green-400   to-blue-500 hover:text-white transform transition-transform hover:scale-[1.02]">
                     <CardHeader className=" flex-auto">
                         <GoHeartFill
                             size="35px" />
@@ -92,7 +92,7 @@ export default function Services() {
 
                 </Card>
 
-                <Card className="  bg-white   rounded-lg  dark:bg-gray-800 shadow-xl    hover:bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500  dark:hover:bg-gradient-to-r from-blue-500 via-purple-500 to-pink-500 hover:text-white transform transition-transform hover:scale-[1.02]">
+                <Card className="  bg-white   rounded-lg  dark:bg-gray-800 shadow-xl    hover:bg-gradient-to-r from-blue-500  to-pink-500  dark:hover:bg-gradient-to-r from-green-400   to-blue-500 hover:text-white transform transition-transform hover:scale-[1.02]">
                     <CardHeader className=" flex-auto">
                         <FaBookmark
                             size="35px" />
