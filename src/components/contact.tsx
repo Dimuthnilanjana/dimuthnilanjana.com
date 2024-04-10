@@ -100,7 +100,7 @@ export default function Contact() {
               <Link
                 isExternal
                 showAnchorIcon
-                href="mailto:dimuthnilanjana.official@gmail.com"
+                href="mailto:contact@dimuthnilanjana.com"
                 className=" hover:text-sky-400"
               >
                 Click to send a email.
