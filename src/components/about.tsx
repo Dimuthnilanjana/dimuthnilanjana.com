@@ -23,10 +23,10 @@ export default function About() {
       id="about"
     >
       <SectionHeading>{languageStrings.about.title}</SectionHeading>
-      <p className="mb-3  lg:text-xl  sm:text-lg  text-justify  italic  pb-4">
+      <p className="mb-3  lg:text-xl  sm:text-lg  text-justify   pb-4">
         I am a software engineering undergraduate student
-        at NIBM ,Sri Lanka. I'm expert in UI/UX design and brand
-        identity. My journey in the world of design began in 2019,
+        at NIBM ,Sri Lanka. I'm expert in UI/UX design and web development 
+        . My journey in the world of design began in 2019,
         and since then, I've successfully completed over 100 commercial
         projects for both local and international clients.
 
@@ -38,10 +38,7 @@ export default function About() {
         expectations of my clients.
       </p>
 
-      <p className="text-xl">
-        
-        {languageStrings.about.conclusion}{" "}
-      </p>
+     
 
       <div className="flex items-center justify-center pt-6 ">
         <Card className="max-w-[600px] bg-white border-black   dark:bg-gray-800  rounded-2xl dark:border-gray-300  shadow-2xl hover:scale-[1.04]  transform transition-transform">
